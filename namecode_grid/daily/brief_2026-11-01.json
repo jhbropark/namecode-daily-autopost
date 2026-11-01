@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-01",
+  "apod_title": "Colors of the Moon",
+  "work_name": "MOON",
+  "label": "namecode - MOON | 73.738",
+  "source": null,
+  "prompt": "Visual subject: Colors of the Moon.\nScene context from the APOD description: What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere , the dark Moon , which shines by reflected sunlight, appears a magnificent ly brown-tinged gray.\nKeep the named subject and its source-described distinguishing features visually legible; do not replace it with an unrelated generic space scene. This is an AI interpretation of text, not a reconstruction of a source photograph.\nStyle: Cinematic dark monochrome generative art. Rendered as fine white particles and light filaments on a pure black background, volumetric, dramatic, monochrome white on black, lots of negative space, high detail.",
+  "visual_subject": "Colors of the Moon",
+  "visual_context": "What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere , the dark Moon , which shines by reflected sunlight, appears a magnificent ly brown-tinged gray.",
+  "visual_review": {
+    "status": "pending",
+    "required": true,
+    "reason": "Check first-frame subject against source context and caption before publication"
+  },
+  "apod_url": "https://science.nasa.gov/apod/?date=261101",
+  "explanation": "What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere , the dark Moon , which shines by reflected sunlight, appears a magnificent ly brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from different locations across Italy . A red - or yellow -colored moon usually indicates a moon seen near the horizon . There, some of the blue light has been scattered away by a long path through the Earth's atmosphere , sometimes laden with fine dust. A blue-colored moon is more rare and can indicate an atmosphere carrying larger dust particles . What created the purple moon is unclear -- it may be a combination of several effects. The last image captures the total lunar eclipse of 2018 July -- where the moon, in Earth's shadow , appeared a faint red -- due to light refracted through air around the Earth. Have you ever seen an unusually colorful Moon?",
+  "attribution": "Marcella Giulia Pace"
+}
