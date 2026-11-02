@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-02",
+  "apod_title": "A Long Cloud on Mars",
+  "work_name": "LONG.CLOUD",
+  "label": "namecode - LONG.CLOUD | 54.265",
+  "source": null,
+  "prompt": "Visual subject: A Long Cloud on Mars.\nScene context from the APOD description: What’s causing this unusually long cloud on Mars ? Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA’s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA ’s robotic Mars Express spacecraft. The featured image is from 2018.\nKeep the named subject and its source-described distinguishing features visually legible; do not replace it with an unrelated generic space scene. This is an AI interpretation of text, not a reconstruction of a source photograph.\nStyle: Cinematic dark monochrome generative art. Rendered as fine white particles and light filaments on a pure black background, volumetric, dramatic, monochrome white on black, lots of negative space, high detail.",
+  "visual_subject": "A Long Cloud on Mars",
+  "visual_context": "What’s causing this unusually long cloud on Mars ? Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA’s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA ’s robotic Mars Express spacecraft. The featured image is from 2018.",
+  "visual_review": {
+    "status": "pending",
+    "required": true,
+    "reason": "Check first-frame subject against source context and caption before publication"
+  },
+  "apod_url": "https://science.nasa.gov/apod/?date=261102",
+  "explanation": "What’s causing this unusually long cloud on Mars ? Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA’s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA ’s robotic Mars Express spacecraft. The featured image is from 2018. The cloud forms only during spring and summer seasons and then only during morning hours. Made of water-ice, the most familiar process that causes cloud crystals to form around bits of dust would fail due to the thinness and lack of dust high in the Martian atmosphere . Leading speculation holds that dust is not involved. After the cloud forms near the volcano Arsia Mons , wind blows the cloud downstream — creating a tail that can extend over 1500 kilometers. Efforts to better understand AMEC s will continue, an understanding that may bolster a more complete view of cloud formation on Earth .",
+  "attribution": "ESA , DLR , FU Berlin ; Processing & License : J. Cowart"
+}
