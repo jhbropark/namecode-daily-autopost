@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-06",
+  "apod_title": "A Farewell to Swift",
+  "work_name": "FAREWELL.SWIFT",
+  "label": "namecode - FAREWELL.SWIFT | 62.817",
+  "source": null,
+  "prompt": "Visual subject: A Farewell to Swift.\nScene context from the APOD description: It is time to say goodbye to NASA 's Neil Gehrels Swift Observatory . After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia . The featured image is a mosaic created in 2018 using the first one million images captured by the satellite's Ultraviolet/Optical Telescope .\nKeep the named subject and its source-described distinguishing features visually legible; do not replace it with an unrelated generic space scene. This is an AI interpretation of text, not a reconstruction of a source photograph.\nStyle: Cinematic dark monochrome generative art. Rendered as fine white particles and light filaments on a pure black background, volumetric, dramatic, monochrome white on black, lots of negative space, high detail.",
+  "visual_subject": "A Farewell to Swift",
+  "visual_context": "It is time to say goodbye to NASA 's Neil Gehrels Swift Observatory . After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia . The featured image is a mosaic created in 2018 using the first one million images captured by the satellite's Ultraviolet/Optical Telescope .",
+  "visual_review": {
+    "status": "pending",
+    "required": true,
+    "reason": "Check first-frame subject against source context and caption before publication"
+  },
+  "apod_url": "https://science.nasa.gov/apod/?date=261106",
+  "explanation": "It is time to say goodbye to NASA 's Neil Gehrels Swift Observatory . After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia . The featured image is a mosaic created in 2018 using the first one million images captured by the satellite's Ultraviolet/Optical Telescope . Swift had a combination of instruments, including an X-ray telescope and a gamma-ray telescope , that worked together to enable humanity to study, in unprecedented detail, the fastest and most energetic explosions in the universe. The most recent solar maximum accelerated the decay of the satellite's orbit. An innovative mission to rescue Swift by boosting its orbit was not successful . Swift burned on reentry like a shooting star, but the impressive data acquired by the telescope over its mission will continue to bring light to the mysteries of the cosmos for years to come. May it keep inspiring new missions to boldly go into space, explore new data and seek out new science.",
+  "attribution": "NASA / Swift and AndreaMosaic"
+}
