@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-10",
+  "apod_title": "Saturn Behind the Moon",
+  "work_name": "MOON",
+  "label": "namecode - MOON | 23.584",
+  "source": null,
+  "prompt": "Visual subject: Saturn Behind the Moon.\nScene context from the APOD description: Sometimes Saturn disappears. It doesn't really go away, of course -- it just disappears from our view when Earth's Moon moves in front. Such a Saturn ian eclipse, more formally called an occultation , was visible in early 2025 along a small swath of Earth -- from Greenland through central Europe and into northern Africa .\nKeep the named subject and its source-described distinguishing features visually legible; do not replace it with an unrelated generic space scene. This is an AI interpretation of text, not a reconstruction of a source photograph.\nStyle: Cinematic dark monochrome generative art. Rendered as fine white particles and light filaments on a pure black background, volumetric, dramatic, monochrome white on black, lots of negative space, high detail.",
+  "visual_subject": "Saturn Behind the Moon",
+  "visual_context": "Sometimes Saturn disappears. It doesn't really go away, of course -- it just disappears from our view when Earth's Moon moves in front. Such a Saturn ian eclipse, more formally called an occultation , was visible in early 2025 along a small swath of Earth -- from Greenland through central Europe and into northern Africa .",
+  "visual_review": {
+    "status": "pending",
+    "required": true,
+    "reason": "Check first-frame subject against source context and caption before publication"
+  },
+  "apod_url": "https://science.nasa.gov/apod/?date=261110",
+  "explanation": "Sometimes Saturn disappears. It doesn't really go away, of course -- it just disappears from our view when Earth's Moon moves in front. Such a Saturn ian eclipse, more formally called an occultation , was visible in early 2025 along a small swath of Earth -- from Greenland through central Europe and into northern Africa . The featured image is a digital fusion of three images, the first of just Saturn before it disappeared, and then two more of the Moon with different exposure lengths. The images were taken from Sardinia , Italy , after sunset. The bright dot near Saturn is not a moon of Saturn , but rather the star 85 Aquarii , which is further behind Saturn than Saturn is behind the Moon. The next time the Moon moves in front of Saturn, as visible from some place on Earth , will be in 2031.",
+  "attribution": "Roberto Ortu"
+}
