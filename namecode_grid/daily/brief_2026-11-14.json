@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-14",
+  "apod_title": "Apollo 12 and Surveyor 3",
+  "work_name": "APOLLO.SURVEYOR",
+  "label": "namecode - APOLLO.SURVEYOR | 53.231",
+  "source": null,
+  "prompt": "Visual subject: Apollo 12 and Surveyor 3.\nScene context from the APOD description: Put on your red/blue glasses and gaze across the western Ocean of Storms on the surface of the Moon. The 3D anaglyph shows Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft in November of 1969. Surveyor 3 had landed at the site on the inside slope of a small crater about 2 1/2 years earlier in April of 1967. Visible on the horizon beyond the far crater wall, Apollo 12's Lunar Module Intrepid touched down less than 200 meters (650 feet) away, easy moonwalking distance from the robotic Surveyor spacecraft. This stereo image was carefully created from two separate pictures ( AS12-48-7133 , AS12-48-7134 ) captured on the lunar surface . They depict the scene from only slightly different viewpoints, approximating the separation between human eyes.\nKeep the named subject and its source-described distinguishing features visually legible; do not replace it with an unrelated generic space scene. This is an AI interpretation of text, not a reconstruction of a source photograph.\nStyle: Cinematic dark monochrome generative art. Rendered as fine white particles and light filaments on a pure black background, volumetric, dramatic, monochrome white on black, lots of negative space, high detail.",
+  "visual_subject": "Apollo 12 and Surveyor 3",
+  "visual_context": "Put on your red/blue glasses and gaze across the western Ocean of Storms on the surface of the Moon. The 3D anaglyph shows Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft in November of 1969. Surveyor 3 had landed at the site on the inside slope of a small crater about 2 1/2 years earlier in April of 1967. Visible on the horizon beyond the far crater wall, Apollo 12's Lunar Module Intrepid touched down less than 200 meters (650 feet) away, easy moonwalking distance from the robotic Surveyor spacecraft. This stereo image was carefully created from two separate pictures ( AS12-48-7133 , AS12-48-7134 ) captured on the lunar surface . They depict the scene from only slightly different viewpoints, approximating the separation between human eyes.",
+  "visual_review": {
+    "status": "pending",
+    "required": true,
+    "reason": "Check first-frame subject against source context and caption before publication"
+  },
+  "apod_url": "https://science.nasa.gov/apod/?date=261114",
+  "explanation": "Put on your red/blue glasses and gaze across the western Ocean of Storms on the surface of the Moon. The 3D anaglyph shows Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft in November of 1969. Surveyor 3 had landed at the site on the inside slope of a small crater about 2 1/2 years earlier in April of 1967. Visible on the horizon beyond the far crater wall, Apollo 12's Lunar Module Intrepid touched down less than 200 meters (650 feet) away, easy moonwalking distance from the robotic Surveyor spacecraft. This stereo image was carefully created from two separate pictures ( AS12-48-7133 , AS12-48-7134 ) captured on the lunar surface . They depict the scene from only slightly different viewpoints, approximating the separation between human eyes.",
+  "attribution": "Apollo 12 , Alan Bean - Stereo Image Copyright: Kevin Frank"
+}
