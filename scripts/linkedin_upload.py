@@ -10,7 +10,7 @@ import sys
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).parent.parent
@@ -20,6 +20,8 @@ LOG_FILE = REPO_ROOT / "logs" / "linkedin_upload_log.json"
 API_BASE = "https://api.linkedin.com/rest"
 API_VERSION = os.environ.get("LINKEDIN_API_VERSION", "202605").strip()
 MAX_COMMENTARY_LENGTH = 3000
+# Never release an old backlog automatically after authentication is restored.
+MAX_PUBLICATION_LATENESS = timedelta(hours=24)
 ALLOWED_EXTENSIONS = {".jpg", ".jpeg", ".png", ".gif"}
 
 logging.basicConfig(
@@ -222,6 +224,24 @@ def is_due(value: str, now: datetime) -> bool:
     return scheduled <= now
 
 
+def publication_hold_reason(item: dict, now: datetime) -> str | None:
+    """Keep stale/malformed/future items unchanged until explicitly rescheduled."""
+    value = item.get("scheduled_time")
+    if not isinstance(value, str) or not value:
+        return "missing scheduled_time"
+    try:
+        scheduled = datetime.fromisoformat(value)
+    except ValueError:
+        return "invalid scheduled_time"
+    if scheduled.tzinfo is None:
+        scheduled = scheduled.replace(tzinfo=timezone.utc)
+    if scheduled > now:
+        return "not due yet"
+    if now - scheduled > MAX_PUBLICATION_LATENESS:
+        return "over 24 hours late; review and explicitly reschedule before publishing"
+    return None
+
+
 def load_queue() -> dict:
     with open(QUEUE_FILE, encoding="utf-8") as handle:
         return json.load(handle)
@@ -300,6 +320,30 @@ def english_pair_is_ready(item: dict, queue_items: list[dict]) -> bool:
 
 
 def run() -> None:
+    queue = load_queue()
+    now = datetime.now(tz=timezone.utc)
+    delete_pending = [
+        item for item in queue.get("items", [])
+        if item.get("status") == "delete_pending"
+    ]
+    pending = []
+    for item in sort_pending_items(
+        [item for item in queue.get("items", []) if item.get("status") == "pending"]
+    ):
+        reason = publication_hold_reason(item, now)
+        if reason:
+            logger.warning("[%s] held unchanged: %s", item.get("id", "unknown"), reason)
+        else:
+            pending.append(item)
+
+    if os.environ.get("LINKEDIN_DRY_RUN", "").lower() in {"1", "true", "yes"}:
+        logger.info("DRY RUN: %d eligible posts, %d queued deletes; no API calls or writes",
+                    len(pending), len(delete_pending))
+        return
+    if not pending and not delete_pending:
+        logger.info("No eligible LinkedIn actions; queue preserved, authentication not attempted.")
+        return
+
     access_token = os.environ.get("LINKEDIN_ACCESS_TOKEN", "").strip()
     author_urn = os.environ.get("LINKEDIN_AUTHOR_URN", "").strip()
     if not access_token:
@@ -318,13 +362,6 @@ def run() -> None:
         )
         sys.exit(1)
 
-    queue = load_queue()
-    now = datetime.now(tz=timezone.utc)
-    delete_pending = [
-        item
-        for item in queue.get("items", [])
-        if item.get("status") == "delete_pending"
-    ]
     for item in delete_pending:
         item_id = item.get("id", "unknown")
         post_urn = item.get("post_urn", "")
@@ -350,9 +387,6 @@ def run() -> None:
             item["error"] = str(exc)
             logger.error("[%s] 삭제 실패: %s", item_id, exc)
 
-    pending = sort_pending_items(
-        [item for item in queue.get("items", []) if item.get("status") == "pending"]
-    )
     logger.info("LinkedIn 업로드 대기 항목: %d개", len(pending))
 
     uploaded_count = 0
