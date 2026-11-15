@@ -35,4 +35,5 @@ class GuardTests(unittest.TestCase):
    m.run()
    save.assert_not_called(); log.assert_not_called(); network.assert_not_called()
   self.assertEqual(queue,before)
-unittest.main()
+if __name__ == "__main__":
+ unittest.main()
