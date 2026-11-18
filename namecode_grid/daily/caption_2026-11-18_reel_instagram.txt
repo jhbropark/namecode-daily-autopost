@@ -1,11 +1,15 @@
-FLARE — A Medium-Sized Solar Flare.
-NASA APOD 2026-11-18.
+원반 가장자리에서만 빛이 터져 나오고, 표면 한가운데에 흰 점 하나가 남습니다.
 
-APOD 설명문으로 만든 AI 이미지 한 장을 9:16으로 움직였습니다.
-One AI frame from today's APOD description, set in motion at 9:16.
+오늘 NASA APOD는 H-알파 필터로 담은 태양의 채층입니다. 2025년 5월 14일에 일어난 플레어를 10분 동안 찍은 이미지들을 겹쳐 한 장으로 만들었고, GOES 관측 기준 M1급으로 분류됐습니다.
 
-Original image: Mario Cogo / NASA APOD
+이번 작업은 그 설명 중 '표면 위로 빠져나가는 빛' 한 가지만 남기고 색과 세부를 지웠습니다. 움직임도 거의 느껴지지 않을 만큼만 돌게 했습니다. 화면의 원반은 태양 사진이 아니라 설명문을 읽은 AI 해석이고, 표면에 흩뿌려진 작은 점들은 원문에 없는 요소입니다.
 
-APOD: https://science.nasa.gov/apod/?date=261118
+다음에는 빛이 터지는 자리를 가장자리가 아니라 정면에 두면 같은 장면이 어떻게 읽히는지 확인해보려 합니다.
 
-#namecode #nasaapod #aiart #flare
+매일 다른 우주를 흑백의 움직임으로 봅니다. 이어서 보려면 팔로우.
+
+원본 APOD: A Medium-Sized Solar Flare (2026.11.18)
+Credit & Copyright: Mario Cogo
+https://science.nasa.gov/apod/?date=261118
+
+#namecode #solarflare #generativeart
