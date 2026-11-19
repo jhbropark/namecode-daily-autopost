@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-19",
+  "apod_title": "The Horsehead and Flame Nebulas",
+  "work_name": "NEBULA",
+  "label": "namecode - NEBULA | 1,500 ly",
+  "source": null,
+  "prompt": "Visual subject: The Horsehead and Flame Nebulas.\nScene context from the APOD description: Today's image could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue Alnitak (the Girdle): a triple star system best known for being the easternmost star in Orion's Belt .\nKeep the named subject and its source-described distinguishing features visually legible; do not replace it with an unrelated generic space scene. This is an AI interpretation of text, not a reconstruction of a source photograph.\nStyle: Cinematic dark monochrome generative art. Rendered as fine white particles and light filaments on a pure black background, volumetric, dramatic, monochrome white on black, lots of negative space, high detail.",
+  "visual_subject": "The Horsehead and Flame Nebulas",
+  "visual_context": "Today's image could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue Alnitak (the Girdle): a triple star system best known for being the easternmost star in Orion's Belt .",
+  "visual_review": {
+    "status": "pending",
+    "required": true,
+    "reason": "Check first-frame subject against source context and caption before publication"
+  },
+  "apod_url": "https://science.nasa.gov/apod/?date=261119",
+  "explanation": "Today's image could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue Alnitak (the Girdle): a triple star system best known for being the easternmost star in Orion's Belt . The instantly recognizable shape of a dark horse's head at the center is the aptly named Horsehead Nebula . It is about five light-years tall and lies approximately 1,500 light-years away. It is made of dust and gas that obscure the red glow behind it, which is caused by hydrogen gas being ionized by the bright star Sigma Orionis at the top. The orange nebula with dark filaments on the left is the Flame Nebula . Closer to the Horsehead, the blue reflection nebula NGC 2023 is actively forming stars. The data for this \"painting\" were collected for almost six hours at the Utah Desert Remote Observatories , but the equipment was remotely controlled by the astrophotographer from his home, over 2,000 km away in Illinois .",
+  "attribution": "Mark E. Killion"
+}
