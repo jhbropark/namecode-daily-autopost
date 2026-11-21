@@ -1,11 +1,15 @@
-VOYAGER.NEPTUNE — Voyager's Neptune.
-NASA APOD 2026-11-21.
+커다란 원반이 왼쪽 가장자리에 얇은 초승달 선만 남기고, 오른쪽 위 테두리에서 빛이 한 점으로 터집니다.
 
-APOD 설명문으로 만든 AI 이미지 한 장을 9:16으로 움직였습니다.
-One AI frame from today's APOD description, set in motion at 9:16.
+오늘 NASA APOD는 보이저 2호가 본 해왕성입니다. 1989년 8월 25일, 해왕성에 가장 가까이 다가간 유일한 탐사선이었습니다. 이 장면은 당시와 그 뒤 며칠간 기록한 이미지들을 모아 구성한 것으로, 해왕성 궤도 바깥에서 태양 쪽을 돌아본 시점입니다. 그래서 행성과 위성 트리톤이 얇은 초승달로만 보입니다.
 
-Original image: Assembly/Processing - Rolf Olsen , Data - Voyager 2 , NASA Planetary Data System / NASA APOD
+이번 작업은 그 '돌아본 시점' 하나만 남겼습니다. 6초 동안 화면이 위로 미끄러지면서 원반은 아래로 내려갑니다. 화면의 원반은 사진이 아니라 설명문을 읽은 AI 해석이고, 원문에 있는 트리톤과 희미한 고리는 여기에 없습니다. 오른쪽 위를 가로지르는 별 띠도 원문의 성도 배경과는 다른 요소입니다.
 
-APOD: https://science.nasa.gov/apod/?date=261121
+다음에는 초승달을 두 개 넣어보면 거리감이 어떻게 달라지는지 확인해보려 합니다.
 
-#namecode #nasaapod #aiart #voyager
+매일 다른 우주를 흑백의 움직임으로 봅니다. 이어서 보려면 팔로우.
+
+원본 APOD: Voyager's Neptune (2026.11.21)
+Credit: Assembly/Processing - Rolf Olsen, Data - Voyager 2, NASA Planetary Data System
+https://science.nasa.gov/apod/?date=261121
+
+#namecode #neptune #generativeart

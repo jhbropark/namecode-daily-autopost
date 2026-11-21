@@ -1,10 +1,14 @@
-VOYAGER.NEPTUNE — Voyager's Neptune. NASA APOD 2026-11-21.
+커다란 원반이 왼쪽 가장자리에 얇은 초승달 선만 남기고, 오른쪽 위 테두리에서 빛이 한 점으로 터집니다. 6초 동안 화면이 위로 미끄러지며 원반은 천천히 아래로 내려가고, 오른쪽 위를 비스듬히 지나는 별 띠만 자리를 지킵니다.
 
-AI 이미지 한 장에서 출발한 9:16 영상입니다. 망원경 사진이 아닙니다.
-A 9:16 clip built from a single AI frame — not from the telescope image.
+출처는 2026년 11월 21일 NASA APOD 'Voyager's Neptune'입니다. 보이저 2호는 1989년 8월 25일 해왕성에 가장 가까이 접근했고, 지금까지 이 얼음 거대행성을 찾아간 유일한 탐사선입니다. 공개된 이미지는 접근 당시와 그 이후 며칠간의 관측 자료를 모아 구성한 것으로, 해왕성 궤도 바로 바깥에서 태양 쪽을 돌아본 시점입니다. 그 각도에서는 행성도, 가장 큰 위성 트리톤도 얇은 초승달로만 빛납니다. 배경 성야는 기린자리를 중심으로 7.5도 범위를 담았고, 보이저 2호는 2026년 현재 성간 공간을 지나고 있습니다.
 
-Original image: Assembly/Processing - Rolf Olsen , Data - Voyager 2 , NASA Planetary Data System / NASA APOD
+작업에서는 '태양 쪽을 돌아본 시점' 한 가지만 남기고 색과 세부를 덜어냈습니다. 다만 화면의 원반은 해왕성을 촬영한 사진이 아니라 설명문을 바탕으로 만든 AI 이미지입니다. 원문에 있는 트리톤과 희미한 고리는 이 화면에 없고, 오른쪽 위의 별 띠도 원문의 성도 배경과는 다른 해석입니다.
 
-원본과 해설 / original and write-up: https://science.nasa.gov/apod/?date=261121
+다음 실험에서는 초승달을 하나가 아니라 두 개 놓았을 때 거리감이 어떻게 달라지는지 보려고 합니다.
 
-#namecode #nasaapod #voyager
+매일 다른 우주를 흑백의 움직임으로 봅니다. 이어서 보려면 팔로우.
+
+원본 APOD: https://science.nasa.gov/apod/?date=261121
+Credit: Assembly/Processing - Rolf Olsen, Data - Voyager 2, NASA Planetary Data System
+
+#namecode #voyager2 #mediaart
