@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-23",
+  "apod_title": "The Emergence of Dark Nebula Lynds 1251",
+  "work_name": "NEBULA",
+  "label": "namecode - NEBULA | 20 hr",
+  "source": null,
+  "prompt": "Visual subject: The Emergence of Dark Nebula Lynds 1251.\nScene context from the APOD description: If you stare into space for a long time, what might you see? At first, you might only see the usual brightest stars , but if your eyes (or camera) could continue to collect light , you would see increasingly more. In the direction of the featured image , after only a few minutes, you would begin to notice some regions without stars .\nKeep the named subject and its source-described distinguishing features visually legible; do not replace it with an unrelated generic space scene. This is an AI interpretation of text, not a reconstruction of a source photograph.\nStyle: Cinematic dark monochrome generative art. Rendered as fine white particles and light filaments on a pure black background, volumetric, dramatic, monochrome white on black, lots of negative space, high detail.",
+  "visual_subject": "The Emergence of Dark Nebula Lynds 1251",
+  "visual_context": "If you stare into space for a long time, what might you see? At first, you might only see the usual brightest stars , but if your eyes (or camera) could continue to collect light , you would see increasingly more. In the direction of the featured image , after only a few minutes, you would begin to notice some regions without stars .",
+  "visual_review": {
+    "status": "pending",
+    "required": true,
+    "reason": "Check first-frame subject against source context and caption before publication"
+  },
+  "apod_url": "https://science.nasa.gov/apod/?date=261123",
+  "explanation": "If you stare into space for a long time, what might you see? At first, you might only see the usual brightest stars , but if your eyes (or camera) could continue to collect light , you would see increasingly more. In the direction of the featured image , after only a few minutes, you would begin to notice some regions without stars . As your staring continued, the dark region would become better defined, and after a full 20 hours, you would notice a strange dark structure . To celebrate, you use digital processing to brighten the image and enhance the colors. At the end, you might have an excellent image of Lynds 1251 (LDN 1251), a star -forming region laced with opaque brown-appearing interstellar dust. Also known as the Rotten Fish Nebula, LDN 1251 is home not only to young stars and dust , but also, your long staring indicates, energetic shock waves , fast stellar winds , and powerfully beamed jets .",
+  "attribution": "David Cruz"
+}
