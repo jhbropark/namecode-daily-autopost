@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-25",
+  "apod_title": "SPHEREx Seeing Through Dust",
+  "work_name": "SPHEREX.THROUGH",
+  "label": "namecode - SPHEREX.THROUGH | 12.358",
+  "source": null,
+  "prompt": "Visual subject: SPHEREx Seeing Through Dust.\nScene context from the APOD description: What is blocking the center of the Milky Way? During its 13 billion years , our Milky Way has collected a lot of dust. In contrast to the skin cells, dirt, pollen, and other debris that make up the dust behind your couch, cosmic dust is hundreds of times smaller and made of tiny compounds of oxygen, carbon, and other elements released into space when a star dies .\nKeep the named subject and its source-described distinguishing features visually legible; do not replace it with an unrelated generic space scene. This is an AI interpretation of text, not a reconstruction of a source photograph.\nStyle: Cinematic dark monochrome generative art. Rendered as fine white particles and light filaments on a pure black background, volumetric, dramatic, monochrome white on black, lots of negative space, high detail.",
+  "visual_subject": "SPHEREx Seeing Through Dust",
+  "visual_context": "What is blocking the center of the Milky Way? During its 13 billion years , our Milky Way has collected a lot of dust. In contrast to the skin cells, dirt, pollen, and other debris that make up the dust behind your couch, cosmic dust is hundreds of times smaller and made of tiny compounds of oxygen, carbon, and other elements released into space when a star dies .",
+  "visual_review": {
+    "status": "pending",
+    "required": true,
+    "reason": "Check first-frame subject against source context and caption before publication"
+  },
+  "apod_url": "https://science.nasa.gov/apod/?date=261125",
+  "explanation": "What is blocking the center of the Milky Way? During its 13 billion years , our Milky Way has collected a lot of dust. In contrast to the skin cells, dirt, pollen, and other debris that make up the dust behind your couch, cosmic dust is hundreds of times smaller and made of tiny compounds of oxygen, carbon, and other elements released into space when a star dies . Today’s video shows infrared light from the Milky Way’s center gathered by NASA’s SPHEREx satellite. Each false color in the video corresponds to the infrared color associated with the wavelength shown in the top left. In the near-infrared, like 1.2 microns , light gets absorbed and scatters off of dust particles. SPHEREx then sees the Galactic Center almost entirely blocked by clouds of dust . In the mid-infrared, though, light is able to pierce through the dust and reach SPHEREx. This is similar to, but not exactly, why sunsets are red !",
+  "attribution": "Credit: NASA/JPL-Caltech SPHEREx; data from NASA/IPAC IRSA. Processing: The Bright Nobles (Muhammet Mücahit Soylu, Serdar Aydın, Furkan Küpeli), ChronosphereX ."
+}
