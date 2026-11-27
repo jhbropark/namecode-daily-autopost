@@ -6,7 +6,13 @@
   <atom:link href="https://jhbropark.github.io/pages/namecode/feed.xml" rel="self" type="application/rss+xml"/>
   <description>NASA APOD에서 출발한 매일 한 점의 AI 생성 흑백 이미지 아카이브.</description>
   <language>ko</language>
-  <lastBuildDate>Thu, 26 Nov 2026 18:25:34 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 18:11:05 GMT</lastBuildDate>
+  <item>
+    <title>The Moon Watchers (2026-11-27)</title>
+    <link>https://jhbropark.github.io/pages/namecode/artwork/2026-11-27.html</link>
+    <guid isPermaLink="true">https://jhbropark.github.io/pages/namecode/artwork/2026-11-27.html</guid>
+    <description>2026년 11월 27일 namecode 스카이 스터디. NASA APOD &quot;The Moon Watchers&quot;에서 출발한 AI 생성 흑백 이미지와 원본 출처, 이미지에 새겨진 레이블(namecode - MOON | 47.133) 기록.</description>
+  </item>
   <item>
     <title>Eye in the Sky: The Milky Way over Lençóis (2026-11-26)</title>
     <link>https://jhbropark.github.io/pages/namecode/artwork/2026-11-26.html</link>
@@ -180,12 +186,6 @@
     <link>https://jhbropark.github.io/pages/namecode/artwork/2026-10-26.html</link>
     <guid isPermaLink="true">https://jhbropark.github.io/pages/namecode/artwork/2026-10-26.html</guid>
     <description>2026년 10월 26일 namecode 스카이 스터디. NASA APOD &quot;M42: The Great Nebula in Orion&quot;에서 출발한 AI 생성 흑백 이미지와 원본 출처, 이미지에 새겨진 레이블(namecode - NEBULA | 1500 ly) 기록.</description>
-  </item>
-  <item>
-    <title>Dark Matter in a Simulated Universe (2026-10-25)</title>
-    <link>https://jhbropark.github.io/pages/namecode/artwork/2026-10-25.html</link>
-    <guid isPermaLink="true">https://jhbropark.github.io/pages/namecode/artwork/2026-10-25.html</guid>
-    <description>2026년 10월 25일 namecode 스카이 스터디. NASA APOD &quot;Dark Matter in a Simulated Universe&quot;에서 출발한 AI 생성 흑백 이미지와 원본 출처, 이미지에 새겨진 레이블(namecode - SIMULATED.UNIVERSE | 24.605) 기록.</description>
   </item>
 </channel>
 </rss>
