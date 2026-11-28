@@ -1,11 +1,15 @@
-APOLLO.ANAGLYPH — Apollo 17 VIP Site Anaglyph.
-NASA APOD 2026-11-28.
+네 바퀴 탐사차가 화면 아래로 내려가고, 그 뒤의 착륙선과 낮은 언덕 능선이 천천히 올라옵니다.
 
-APOD 설명문으로 만든 AI 이미지 한 장을 9:16으로 움직였습니다.
-One AI frame from today's APOD description, set in motion at 9:16.
+NASA APOD 2026년 11월 28일 'Apollo 17 VIP Site Anaglyph'는 달 타우루스-리트로 계곡의 입체 사진입니다. 전경에 아폴로 17호의 월면차, 그 뒤에 착륙선, 더 뒤에 먼 언덕이 놓입니다. 로버의 TV 카메라가 상승단 이륙 장면을 중계할 자리라 이 주차 지점을 VIP Site라고 불렀습니다. 1972년 12월, 유진 서넌과 해리슨 슈미트는 달에서 약 75시간을 보냈고 110kg의 암석·토양 시료를 가져왔습니다.
 
-Original image: Gene Cernan , Apollo 17 , NASA ; Anaglyph by Erik van Meijgaarden / NASA APOD
+원문은 적청 안경으로 보는 컬러 입체 사진입니다. 이 화면에는 색도, 두 겹의 시차도 없습니다. 대신 카메라를 위로 띄워 앞의 탐사차와 뒤의 착륙선이 서로 다른 속도로 흐르게 두는 것, 그 하나만 깊이를 만드는 장치로 남겼습니다. 실제 촬영이 아니라 설명문을 읽고 만든 AI 해석입니다.
 
-APOD: https://science.nasa.gov/apod/?date=261128
+다음에는 색 분리 없이, 흰 입자의 밀도 차이만으로 앞뒤를 가를 수 있는지 확인해 보려 합니다.
 
-#namecode #nasaapod #aiart #apollo
+매일 다른 우주를 흑백 움직임으로 봅니다.
+
+출처 NASA APOD 2026-11-28 'Apollo 17 VIP Site Anaglyph'
+Credit: Gene Cernan, Apollo 17, NASA; Anaglyph by Erik van Meijgaarden
+https://science.nasa.gov/apod/?date=261128
+
+#namecode #apollo17 #generativeart

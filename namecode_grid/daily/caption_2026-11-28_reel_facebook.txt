@@ -1,10 +1,15 @@
-APOLLO.ANAGLYPH — Apollo 17 VIP Site Anaglyph. NASA APOD 2026-11-28.
+달 표면에 선 탐사차 한 대에서 시작해, 시선이 천천히 떠오릅니다. 탐사차는 아래로 빠지고 뒤쪽 착륙선과 언덕 능선이 올라옵니다.
 
-AI 이미지 한 장에서 출발한 9:16 영상입니다. 망원경 사진이 아닙니다.
-A 9:16 clip built from a single AI frame — not from the telescope image.
+오늘 고른 장면은 NASA APOD 2026년 11월 28일자 'Apollo 17 VIP Site Anaglyph'입니다. 타우루스-리트로 계곡을 찍은 입체 사진으로, 전경의 월면차와 그 뒤 착륙선, 멀리 달 언덕이 차례로 놓입니다. 세계가 상승단의 이륙을 로버의 TV 카메라로 지켜보게 될 자리였기 때문에 이 주차 지점에는 VIP Site라는 이름이 붙었습니다. 1972년 12월 유진 서넌과 해리슨 슈미트는 달에서 약 75시간을 보냈고, 로널드 에반스가 궤도에서 대기했습니다. 돌아올 때 가져온 시료는 110kg으로, 다른 어떤 착륙 지점보다 많았습니다. 두 사람은 지금까지도 달 위를 걷거나 운전한 마지막 사람입니다.
 
-Original image: Gene Cernan , Apollo 17 , NASA ; Anaglyph by Erik van Meijgaarden / NASA APOD
+표현에서 바꾼 것은 분명합니다. 원문은 적청 안경을 쓰고 보는 컬러 입체 사진이지만, 이 영상에는 색도 좌우 시차도 없습니다. 깊이를 만드는 장치는 수직으로 떠오르는 카메라 하나뿐이고, 앞뒤 물체가 서로 다른 속도로 지나가면서 거리감이 생깁니다. 달 표면과 기체의 형태는 설명문을 바탕으로 생성한 AI 이미지이며, 실제 아폴로 사진의 재현이 아닙니다.
 
-원본과 해설 / original and write-up: https://science.nasa.gov/apod/?date=261128
+다음 실험에서는 색 분리 대신 흰 입자의 밀도 차이만으로 앞과 뒤를 나눌 수 있는지 보려고 합니다.
 
-#namecode #nasaapod #apollo
+매일 다른 우주를 흑백 움직임으로 기록합니다.
+
+출처 NASA APOD 2026-11-28 'Apollo 17 VIP Site Anaglyph'
+Credit: Gene Cernan, Apollo 17, NASA; Anaglyph by Erik van Meijgaarden
+https://science.nasa.gov/apod/?date=261128
+
+#namecode #apollo17 #generativeart
